@@ -12,5 +12,3 @@ To run the code, simply navigate to the respective folder with the commandline a
 `node puzzle-01.js`
 
 (or any other program name). The respective output should appear on the console.
-
-Translated with www.DeepL.com/Translator (free version)
